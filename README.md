@@ -1,6 +1,9 @@
 # Edumation-Lab
 An Animation on Chemical Bond
 
+Click on the image to watch
+[![Edumantion Lab](https://github.com/ShaikhSR1/Edumation-Lab/blob/main/Materials%20of%20Chemical%20Bond/Screenshot%20(199).png)](https://www.youtube.com/watch?v=pLMd9Q9sj1s)
+
 ### Team Members
  1. Tasmim Sultana (129) <br>
  2. Fatama Jannat Tisha (131) <br>
